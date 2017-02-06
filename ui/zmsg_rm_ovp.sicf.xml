@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SICF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <URL>/sap/bc/webdynpro/sap/ZMSG_RM_OVP/</URL>
+   <ICFSERVICE>
+    <ICF_NAME>ZMSG_RM_OVP</ICF_NAME>
+    <ORIG_NAME>ZMSG_RM_OVP</ORIG_NAME>
+   </ICFSERVICE>
+   <ICFDOCU>
+    <ICF_NAME>ZMSG_RM_OVP</ICF_NAME>
+    <ICF_LANGU>E</ICF_LANGU>
+    <ICF_DOCU>Messaging rooms</ICF_DOCU>
+   </ICFDOCU>
+   <ICFHANDLER_TABLE/>
+  </asx:values>
+ </asx:abap>
+</abapGit>
